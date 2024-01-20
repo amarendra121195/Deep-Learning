@@ -1,2 +1,2 @@
 # Deep-Learning
-Full Course of Deep Learning
+Deep Learning Full Course
