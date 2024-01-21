@@ -1,2 +1,4 @@
 # Deep-Learning
-Deep Learning Full Course
+Deep Learning Full Course 
+<br>
+Auther: Amarendra Kumar
